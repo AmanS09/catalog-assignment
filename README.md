@@ -20,3 +20,8 @@ Steps to Run File on VS Code
     Run your Java program, also specifying the classpath:
 
     java -cp .;json-20210307.jar SecretSharing
+## C:\Users\HP\Desktop\cc\
+    ├── SecretSharing.java
+    ├── json-20240303.jar
+    └── .vscode\
+        └── launch.json
